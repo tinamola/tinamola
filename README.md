@@ -4,3 +4,67 @@ I'm a software engineer with a knack for building powerful web applications and 
 My journey began with a computer science degree at Monash College, where I explored the depths of Python, C++, JavaScript and TypeScript. During my degree, I researched natural language processing and multi-agent pathfinding as part of my thesis, acquiring a solid foundation in machine learning and data modeling.
 
 In my work, I gained hands-on experience in the full lifecycle of enterprise application development, combining my programming skills with scalable infrastructure tools. I worked on integrating language frameworks with automation and DevOps practices, using tools like Docker, Azure, and GitHub Actions to build robust, automated solutions.
+
+## My Open-source Projects
+Project|Stars|Forks|Issues|Pull Requests|Version|License
+-|-|-|-|-|-|-
+[ReceipeGenerator](https://github.com/tinamola/RecipeGenerator)|![GitHub stars](https://img.shields.io/github/stars/tinamola/RecipeGenerator)|![GitHub forks](https://img.shields.io/github/forks/tinamola/RecipeGenerator)|![GitHub issues](https://img.shields.io/github/issues/tinamola/RecipeGenerator)|![GitHub pull requests](https://img.shields.io/github/issues-pr/tinamola/RecipeGenerator)|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/tinamola/RecipeGenerator?label=version&logo=github)|![GitHub](https://img.shields.io/github/license/tinamola/RecipeGenerator?logo=github)
+[BioBert](https://github.com/tinamola/BioBERT)|![GitHub stars](https://img.shields.io/github/stars/tinamola/BioBERT)|![GitHub forks](https://img.shields.io/github/forks/tinamola/BioBERT)|![GitHub issues](https://img.shields.io/github/issues/tinamola/BioBERT)|![GitHub pull requests](https://img.shields.io/github/issues-pr/tinamola/BioBERT)|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/tinamola/BioBERT?label=version&logo=github)|![GitHub](https://img.shields.io/github/license/tinamola/BioBERT?logo=github)
+[XMAPF](https://github.com/tinamola/MAPFVisualizer)|![GitHub stars](https://img.shields.io/github/stars/tinamola/MAPFVisualizer)|![GitHub forks](https://img.shields.io/github/forks/tinamola/MAPFVisualizer)|![GitHub issues](https://img.shields.io/github/issues/tinamola/MAPFVisualizer)|![GitHub pull requests](https://img.shields.io/github/issues-pr/tinamola/MAPFVisualizer)|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/tinamola/MAPFVisualizer?label=version&logo=github)|![GitHub](https://img.shields.io/github/license/tinamola/MAPFVisualizer?logo=github)
+### 🔧 Tech Stack
+
+- **Frontend:** 
+  - React, Next.js, Tailwind CSS
+  - TypeScript, JavaScript, HTML5, CSS3
+  - Shadcn,  Sonner
+ 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+    
+- **Backend:** 
+  - Node.js, Express.js
+  - Python, Flask
+  - RESTful APIs, GraphQL
+
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+
+- **Data:** 
+  - MongoDB, PostgreSQL, MySQL
+ 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+- **LLMs:**
+  - OpenAI, Claude AI, Genmini
+  - Pincone
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+- **AI:** 
+  - Pytorch, Hugginface,Langchain
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+
+
+
+- **DevOps:** 
+  - AWS (Certified), Docker, GitHub Actions
+  - CI/CD
+- **Tools:** 
+  - VS Code, Git, GitHub
+  - Postman, GitHub Copilot, Jest
