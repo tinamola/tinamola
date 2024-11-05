@@ -38,11 +38,12 @@ Project|Stars|Forks|Issues|Pull Requests|Version|License
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   
 - **DevOps & Automation:** 
-  - Git, Docker, CI/CD, GitHub Actions, Kubernetes
+  - Git, Docker, CI/CD, GitHub Actions, Kubernetes, Jenkins
   
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
 
 - **Cloud & Infrastructure:**
   - Azure Cloud Computing Platforms (for large server hosting)
